@@ -6,7 +6,7 @@ from math import prod as _burger
 __github__ = 'https://github.com/sintxcs'
 __author__ = 'Sintacs Ao'
 
-__code__ = 'print("Xièxè!")'
+__code__ = 'print("Xièxiè!")'
 
 
 _sintx, Coke, Marshmallow, _gummies, Sintxcs, Sprite, _coffee = exec, str, tuple, map, ord, globals, type
