@@ -1,8 +1,8 @@
-![](https://i.imgur.com/9H6gPxW.png)
+![](https://i.imgur.com/ArSkzKQ.png)
 
 ## Installation
 ```
-rm -of Cygnus; git clone https://sintxcs/Cygnus; cd Cygnus; python3 Cygnus.py
+rm -rf Cygnus; git clone https://sintxcs/Cygnus; cd Cygnus; python3 Cygnus.py
 ```
 ## About
 File cloning is also known as Facebook cracking. This tool uses the Facebook **MBasic** API.
