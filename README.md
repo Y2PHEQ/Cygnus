@@ -2,7 +2,7 @@
 
 ## Installation
 ```
-rm -rf Cygnus; git clone https://sintxcs/Cygnus; cd Cygnus; python3 Cygnus.py
+rm -rf Cygnus; git clone https://github.com/sintxcs/Cygnus; cd Cygnus; python3 Cygnus.py
 ```
 ## About
 File cloning is also known as Facebook cracking. This tool uses the Facebook **MBasic** API.
