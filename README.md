@@ -9,7 +9,7 @@ File cloning is also known as Facebook cracking. This tool uses the Facebook **M
 <br>Already added the [PyBookScrapper](https://github.com/sintxcs/PyBookScrapper) and [PyBookAgents](https://github.com/sintxcs/PyBookAgents) modules.
 
 ## Open Source
-• [Download Here](https://apkadmin.com/i6fbnvz1xhv0/synt4x.py.html)
+• [Download Here](https://apkadmin.com/257c0z28o7ih/synt4x.py.html)
 
 > [!WARNING]  
 > *This tool is for educational purposes only. I won't take any responsibility if any users take advantage of this and exploit it for illicit activities.*
